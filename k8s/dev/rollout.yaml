@@ -27,7 +27,7 @@ spec:
      volumes:
      - name: html
        configMap:
-         name: feature-config
+         name: feature-config-dev
 
 
  strategy:
