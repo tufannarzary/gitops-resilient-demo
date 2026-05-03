@@ -4,5 +4,5 @@ metadata:
  name: feature-config-prod
 data:
  index.html: |
-   <h1>BROKEN VERSION</h1>
+   <h1>PROD Environment</h1>
    <p>Feature Flag: ON</p>
